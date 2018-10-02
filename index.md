@@ -123,4 +123,12 @@ Source : [https://github.com/akretion/odoo-usability] (https://github.com/akreti
 
 App : [https://www.73lines.com/shop/product/diy-odoo-report-designer-by-73lines-197?category=2](https://www.73lines.com/shop/product/diy-odoo-report-designer-by-73lines-197?category=2)
 
+
+# Feature Ignored 
+
+Migration utilities to migrate database by the developer on their own
+
+[https://github.com/odoo/odoo/pull/26548](https://github.com/odoo/odoo/pull/26548)
+
+
 Still blind folded ???
