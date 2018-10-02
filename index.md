@@ -1,4 +1,4 @@
-Cv12 is here and so as the great rip off release of community efforts.
+v12 is here and so as the great rip off release of community efforts.
 
 Yes !
 
@@ -6,10 +6,12 @@ Just simple bunch of rip offs from community's efforts going to enterprise.
 
 
 # Features REMOVED from Community
-**1. Stock Tracablity Report, now trace where things went**
+[**1. Stock Tracablity Report, now trace where things went**](#r1)
+
 [https://github.com/odoo/odoo/commit/5fcbc116f1262db8ba9ab02cecdf7dd58508da6c](https://github.com/odoo/odoo/commit/5fcbc116f1262db8ba9ab02cecdf7dd58508da6c)
 
 **2. Stock Quanty Tracablity Report, just keep tracing where it went**
+
 [https://github.com/odoo/odoo/commit/53ac302eabb1e6bd77734334e1dc7e0c367af3a5](https://github.com/odoo/odoo/commit/53ac302eabb1e6bd77734334e1dc7e0c367af3a5)
 
 **3.Accounting Reports, Are they really deprecated? Since When ?**
@@ -111,7 +113,13 @@ App : [https://www.odoo.com/apps/modules/11.0/stock_putaway_product/](https://ww
 
 Source : [http://github.com/OCA/stock-logistics-warehouse](http://github.com/OCA/stock-logistics-warehouse)
 
-**15. Report Designer of Odoo Studio - One more rip off but this time from propitiatory solution --**
+**15. Zebra Report Printing - What ? it was there on app store already --**
+
+App : [https://www.odoo.com/apps/modules/10.0/product_print_zpl_barcode/](https://www.odoo.com/apps/modules/10.0/product_print_zpl_barcode/)
+
+Source : [https://github.com/akretion/odoo-usability] (https://github.com/akretion/odoo-usability)
+
+**16. Report Designer of Odoo Studio - One more rip off but this time from propitiatory solution --**
 
 App : [https://www.73lines.com/shop/product/diy-odoo-report-designer-by-73lines-197?category=2](https://www.73lines.com/shop/product/diy-odoo-report-designer-by-73lines-197?category=2)
 
