@@ -5,6 +5,12 @@
     {% if site.google_analytics %}
       <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
       <script>
+        $(document).ready ->
+  $("a[href^='#']").click ->
+    $(document.body).animate
+      scrollTop: $($(this).attr("href")).offset().top, 1000
+    </script>
+      <script>
         window.dataLayer = window.dataLayer || [];
         function gtag(){dataLayer.push(arguments);}
         gtag('js', new Date());
