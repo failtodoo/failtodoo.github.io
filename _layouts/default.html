@@ -11,12 +11,6 @@
         gtag('config', '{{ site.google_analytics }}');
       </script>
     {% endif %}
-    <script>
-        $(document).ready ->
-  $("a[href^='#']").click ->
-    $(document.body).animate
-      scrollTop: $($(this).attr("href")).offset().top, 1000
-    </script>
     <meta charset="UTF-8">
 
 {% seo %}
