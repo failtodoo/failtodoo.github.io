@@ -59,7 +59,7 @@ App : [https://www.odoo.com/apps/modules/11.0/password_security/](https://www.od
 
 Source : [https://github.com/OCA/server-auth](https://github.com/OCA/server-auth)
 
-[**6. Document management system (DMS) - Very well created DMS by a community member -- **](#a6)
+[**6. Document management system (DMS) - Very well created DMS by a community member --**](#a6)
 
 App : [https://www.odoo.com/apps/modules/11.0/muk_dms/](https://www.odoo.com/apps/modules/11.0/muk_dms/)
 
