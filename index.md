@@ -1,9 +1,30 @@
-v12 is here and so as the great rip off release of community efforts.
+Cv12 is here and so as the great rip off release of community efforts.
 
 Yes !
 
 Just simple bunch of rip offs from community's efforts going to enterprise.
 
+
+# Features REMOVED from Community
+**1. Stock Tracablity Report, now trace where things went**
+[https://github.com/odoo/odoo/commit/5fcbc116f1262db8ba9ab02cecdf7dd58508da6c](https://github.com/odoo/odoo/commit/5fcbc116f1262db8ba9ab02cecdf7dd58508da6c)
+
+**2. Stock Quanty Tracablity Report, just keep tracing where it went**
+[https://github.com/odoo/odoo/commit/53ac302eabb1e6bd77734334e1dc7e0c367af3a5](https://github.com/odoo/odoo/commit/53ac302eabb1e6bd77734334e1dc7e0c367af3a5)
+
+**3.Accounting Reports, Are they really deprecated? Since When ?**
+
+[https://github.com/odoo/odoo/commit/e51b4f659fc5e4253d3156754ada21166c8d1bf8](https://github.com/odoo/odoo/commit/e51b4f659fc5e4253d3156754ada21166c8d1bf8)
+
+**4. Accounting Budget. now you need budget to have it**
+
+[https://github.com/odoo/odoo/commit/2870af948e237e557f39287929e1a30de2c25730](https://github.com/odoo/odoo/commit/2870af948e237e557f39287929e1a30de2c25730)
+
+**5. Accounting Assets, Community just lost a big Asset**
+
+[https://github.com/odoo/odoo/commit/2e63ead842a0d2ccd3a78e9453e6d224650b8790](https://github.com/odoo/odoo/commit/2e63ead842a0d2ccd3a78e9453e6d224650b8790)
+
+# Feature Introduced via Rip Off ( Oh, They call it R&D )
 
 **1. Multi Website - Created first by community at  --**
 
