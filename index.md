@@ -117,7 +117,7 @@ Source : [http://github.com/OCA/stock-logistics-warehouse](http://github.com/OCA
 
 App : [https://www.odoo.com/apps/modules/10.0/product_print_zpl_barcode/](https://www.odoo.com/apps/modules/10.0/product_print_zpl_barcode/)
 
-Source : [https://github.com/akretion/odoo-usability] (https://github.com/akretion/odoo-usability)
+Source : [https://github.com/akretion/odoo-usability](https://github.com/akretion/odoo-usability)
 
 [**16. Report Designer in Studio - One more rip off but this time from propitiatory solution --**](#a16)
 
