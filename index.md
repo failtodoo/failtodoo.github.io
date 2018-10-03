@@ -123,6 +123,11 @@ Source : [https://github.com/akretion/odoo-usability](https://github.com/akretio
 
 App : [https://www.73lines.com/shop/product/diy-odoo-report-designer-by-73lines-197?category=2](https://www.73lines.com/shop/product/diy-odoo-report-designer-by-73lines-197?category=2)
 
+[**17. EasyPost - They claimed covering almost all shippers --**](#a17)
+
+App : [https://www.odoo.com/apps/modules/10.0/easypost_base/](https://www.odoo.com/apps/modules/10.0/easypost_base/)
+
+Source : [http://github.com/oncodna/odoo-delivery](http://github.com/oncodna/odoo-delivery)
 
 # Feature Ignored 
 
